@@ -25,7 +25,7 @@ body {
 .header {
   height: 800px;
   text-align: center; 
-  background: url('https://s3.amazonaws.com/codecademy-content/projects/innovation-cloud/bg.jpg');
+  background: url('imgs/bg.jpg');
   background-size: no-repeat center center;
 }
 
@@ -108,7 +108,7 @@ body {
 .jumbotron {
 	height: 600px; 
 	text-align: right;
-  background: url('https://s3.amazonaws.com/codecademy-content/projects/innovation-cloud/jumbotron_bg.jpg');
+  background: url('imgs/jumbotron_bg.jpg');
   background-size: no-repeat center center;
   background-size: cover;
 
