@@ -1,0 +1,2 @@
+MOVE
+Simple single page layout C5 theme
